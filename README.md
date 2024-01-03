@@ -1,3 +1,4 @@
+![Maintained by Hassan](https://img.shields.io/badge/maintained%20by-Hassan.com-blue)
 # CloudWatch collectd plugin
 
 The [CloudWatch](http://aws.amazon.com/cloudwatch/) collectd plugin is a publishing extension for [collectd](https://collectd.org/), an open source statistic gathering daemon. With our extension all configured collectd metrics are automatically published to CloudWatch. This plugin allows monitoring of servers and applications within and outside of EC2 instances.
